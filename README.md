@@ -1,2 +1,0 @@
-# lole.org
-proyecto backend
