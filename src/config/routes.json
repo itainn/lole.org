@@ -1,0 +1,53 @@
+{
+	"contact":{
+		"controller" : "ContactController",		
+		"module": "Contact",
+		"action": "index"
+	},
+
+	"ajax/contact" : {
+		"controller":"ContactController",
+		"module": "Contact",		
+		"action": "processContactAjax"
+	},
+	"": {
+		"controller" : "HomeController",
+		"action": "index"
+	},
+
+	"home": {
+		"controller" : "HomeController",
+		"action": "index"
+	},
+
+	"pagar": {
+		"controller": "PayController",
+		"action": "Pay"
+	},
+	"mostrarCarrito": {
+		"controller": "ChartController",
+		"action": "Chart"
+	},
+
+	"categorias" : {
+		"controller": "CategoriasController",
+		"action": "categorias"
+	},
+
+	"productos" :{
+		"controller": "StoreController",
+		"action": "Store"
+	},
+
+	"404" : {
+		"controller": "ErrorController",
+		"action": "indexAction",
+		"module": 	"error"
+	},
+
+	"error": {
+		"controller": "ErrorController",
+		"action": "indexAction",
+		"module": "error"
+	}
+}

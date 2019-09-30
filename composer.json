@@ -1,0 +1,18 @@
+{
+    "name": "itainn/lole.org",
+    "description": "proyecto backend",
+    "require": {
+        "php":">=7.0"
+    },
+    "authors": [
+        {
+            "name": "itain",
+            "email": "itain.sys@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}

@@ -1,0 +1,182 @@
+
+.formulario{
+        padding: 0px 60px;
+        display: flex;
+    }
+    .formulario iframe{
+        padding-left: 140px;
+     align-content: space-between;
+        align-items: space-between;
+
+    }
+    .formulario button{
+        padding-top:20px;
+    }
+    .text-container{
+        /*margin-right: auto;   */
+        width: 240px;
+    }
+    textarea{
+        width: 100%;
+    }
+    
+    .input-container {
+        display: flex;
+        width: 250px;
+        margin-bottom: 15px;
+    }
+    .icon {
+        padding: 10px;
+        background:#f6483b;
+        color: white;
+        min-width: 50px;
+        text-align: center;
+    }
+    .input-field {
+        width: 75%;
+        padding: 10px;
+        outline: none;
+    }
+    .input-field:focus {
+        border: 2px solid orange;
+    }
+    .btn {
+        background-color: #f6483b;
+        color: white;
+        padding: 15px 20px;
+        border: none;
+        cursor: pointer;
+        width: 50%;
+        opacity: 0.9;
+        border-radius: 20px;
+    }
+    .btn:hover {
+        opacity: 1;
+    }
+
+
+
+
+            /* ---------------QUERY TABLET--------- */
+@media screen and (min-width: 48em){
+
+  
+
+
+  
+}
+
+              /* ---------QUERY LAPTOP---------- */
+@media screen and (min-width: 1024px){
+
+  
+
+
+  
+}
+
+
+
+
+/* /* h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-family: 'Montserrat', sans-serif;
+    padding: 1.25em;
+}
+
+
+
+.formulario {
+    padding: 0em 3.75em;
+    display: flex;
+}
+
+.formulario iframe {
+    
+    align-content: space-between;
+    
+}
+
+.formulario button {
+    top-padding: 1.25em;
+}
+
+.text-container {
+    /*margin-right: auto;   */
+    /* width: 15em;
+}
+
+textarea {
+    width: 100%;
+} */
+
+/* .input-container {
+    display: flex;
+    width: 15.625em;
+    width: 50%;
+
+    margin-bottom: 0.938em;
+}
+ */
+/* .icon {
+    padding: 0.625em;
+    background: #f6483b;
+    color: white;
+    min-width: 3.125em;
+    text-align: center;
+}
+
+.input-field {
+    width: 75%;
+    padding: 0.625em;
+    outline: none;
+}
+
+.input-field:focus {
+    border: 2px solid orange;
+}
+
+.btn {
+    background-color: #f6483b;
+    color: white;
+    padding: 0.938em 1.25em;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+    border-radius: 1.25em;
+}
+
+.btn:hover {
+    opacity: 1;
+} */
+
+
+
+/*--------------- DISEÑO DE TABLET ---------------*/
+/* @media(min-width: 30em) {
+    small {
+        position: relative;
+        top: 3.75em;
+        color: white;
+    }
+
+    textarea {
+        max-width: 25em;
+    }
+
+    .input-field {
+        max-width: 33.125em;
+    } */
+
+    /*--------------- DISEÑO DE LAPTOP ---------------*/
+   /*  @media(min-width: 48em) {
+ */
+
+        
+    /* } */

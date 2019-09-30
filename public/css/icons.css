@@ -1,0 +1,34 @@
+
+
+.fa-shopping-cart{font-size:4em;
+	/*position: relative;*/
+	/*top: 10px;*/
+	/*background: orange;*/
+	/*margin: auto;*/
+}
+
+.fa-bars{
+	color: white;
+}
+
+
+
+
+        /* ---------------QUERY TABLET--------- */
+		@media screen and (min-width: 48em){
+
+  
+
+
+  
+		}
+		
+					  /* ---------QUERY LAPTOP---------- */
+		@media screen and (min-width: 1024px){
+		
+		  
+		
+		
+		  
+		}
+
